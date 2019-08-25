@@ -1,12 +1,26 @@
+<<<<<<< Updated upstream
 <head>
   <title>Todo List</title>
 </head>
  
+=======
+
+
+<head>
+  <title>Bootstrap Example</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+</head>
+>>>>>>> Stashed changes
 <body>
 
   <nav class="navbar navbar-inverse">
   <div class="container-fluid">
     <div class="navbar-header">
+<<<<<<< Updated upstream
       <a class="navbar-brand" href="#">Nombre Empresa</a>
     </div>
     <ul class="nav navbar-nav">
@@ -23,6 +37,14 @@
       </li>
       <li><a href="#">Page 2</a></li>
       <li><a href="#">Page 3</a></li>
+=======
+      <a class="navbar-brand" href="#">WebSiteName</a>
+    </div>
+    <ul class="nav navbar-nav">
+      <li class="active"><a href="#">Home</a></li>
+      <li><a href="#">Page 1</a></li>
+      <li><a href="#">Page 2</a></li>
+>>>>>>> Stashed changes
     </ul>
     <form class="navbar-form navbar-left" action="/action_page.php">
       <div class="form-group">
@@ -33,7 +55,10 @@
   </div>
 </nav>
 
+<<<<<<< Updated upstream
 
+=======
+>>>>>>> Stashed changes
 <div class="container">
   <h2>Nombre Empresa</h2>
   <p>Type something in the input field to search the table for first names, last names or emails:</p>  
